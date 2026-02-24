@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Alee Riaz
+# 👋 Hi, I’m M. Patel
 
 ⚙️ **DevOps Engineer | DevSecOps | Cloud Infrastructure Specialist**  
-📧 **Email:** [mail.aleeriaz@gmail.com](mailto:mail.aleeriaz@gmail.com)
+📧 **Email:** [mp1392076@gmail.com](mailto:mp1392076@gmail.com)
 
 ---
 
